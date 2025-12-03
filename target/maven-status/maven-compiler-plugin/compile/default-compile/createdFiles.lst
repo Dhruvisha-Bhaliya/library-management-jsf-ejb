@@ -1,8 +1,0 @@
-com\mycompany\librarymanagementwebapp\JakartaRestConfiguration.class
-entity\BranchBooks.class
-cdi\BookManagedBean.class
-ejb\BookLocal.class
-entity\Branchmaster.class
-entity\Bookmaster.class
-ejb\Book.class
-com\mycompany\librarymanagementwebapp\resources\JakartaEE10Resource.class
