@@ -1,0 +1,10 @@
+
+*/target/
+*/build/
+
+
+# Ignore NetBeans config in any project
+**/nb-configuration.xml
+
+# Ignore persistence and beans config
+**/src/main/webapp/WEB-INF/beans.xml
